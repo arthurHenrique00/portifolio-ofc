@@ -12,7 +12,6 @@ export const AboutStyled = styled.div`
     border: 2px solid white;
     border-radius: 12px;
     padding: 22px;
-    width: 500px;
 
     li {
       display: flex;
